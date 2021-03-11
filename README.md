@@ -17,6 +17,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 * LECTURE 13 (04.03) - Gaussian Processes
 * LECTURE 14 (05.03) - Dimensionality Reduction
 * LECTURE 15 (09.03) - Anomaly Detection
+* LECTURE 16 (11.03) - Clustering
 ## Course Description:
 The course is a general introduction to machine learning (ML) and its applications. It covers fundamental modern topics in ML, and describes the most important theoretical basis and tools necessary to investigate properties of algorithms and justify their usage. It also provides important aspects of the algorithms’ applications, illustrated using real-world problems. The course starts with an overview of canonical ML applications and problems, learning scenarios, etc. Next, we discuss in depth fundamental ML algorithms for classification, regression, clustering, etc., their properties as well as their practical applications. The last part of the course is devoted to advanced ML topics such as Gaussian processes, neural networks. Within practical sections, we show how to use the methods above to crack various real-world problems. Home assignments include application of existing algorithms to solve applied industrial problems, development of modifications of ML algorithms. The students are assumed to be familiar with basic concepts in linear algebra, probability, calculus, optimization and python programming.
 
